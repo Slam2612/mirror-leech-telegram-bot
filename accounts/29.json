@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sound-catalyst-337315",
+  "private_key_id": "55aa9405ae0c66b5d40f5699d78d7069a4093013",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC119JRWq1aLUwd\neWvYSg2Xu8R8ul/QEMFIvIUa8OK78B9BIz74JtXSvxMPxS0wGYhT8Dn/fuvQq92c\nWSvHoZIPSt4bV0RIYqGiVOJ37gC0N1moHrAq9A/UKv/3/wN9Esj16Y6W552G2g12\nhcuvLXPzTN9TDqAj+g4bvpQYmE4rsaXL2Js05BZpOUU5BXBAfXrYhfOp9tiOUU0P\nUsAYXohThvbH3ocwpK6DqTUDDqv+gZaSB/8cutEXSHDuYkIMg81VJ8viQ/QCzpx6\nL1Xp3y4DI9KQmKRpUEnu0So7OTTWAnQbm9v2kx9eupWu6RpxOQQ523EwoLxmKRIB\nT18nYlRBAgMBAAECggEAAs3rfA51UbM/jc1QHteZMSZny8zOhTg67jRHwRAnDlha\nzQpTfRLRQEpVgOGM4RA7EwtSLlOUD1rqhHqiE0E1mNIyDch5NhISVX1Fua0u74M9\nLlucd9Ry1DYeY4ytjmMI/HTlL8SDlbSyGYpg8f3LazHxGELHm2JupQTPMSK+guE4\nRGXuACg9+Vums+tDznI0e+dFTQQq+jicBcfjgxqY9D0n4duz08zDRJKptxhwSvk1\nE3K7VKMXSL3+HyrJ+Fx7yTJGAH+AhRBFOaM7+qTwFgXKcXf8SDzR3WsmsS7USlC9\ncDR/pcNI/6DIow+CtnJPcmWVtmIERafo+KGlZ5atIQKBgQDqpVtio/O0vJ1QQEZv\nPHyy/xYEUuEZZzssE3g46x9A9u88ihCIn4Dmor+YLPw/L4NaGFkvxhhdPuLwayX3\np2PY6sOI42a7ip6sdOTZ8EoDd9xflQTAiF6Ct9E6tWfkUjt3tCXVNdggWALzSAfd\nDTydgf5veUlWVCedUAfxSfQN0QKBgQDGZEtT65t3Gr9BCQHFybDzDLdc8503CeTl\ny4eg9hDm4SEa+7Tva//vGGkfb4EWV/gMwSifmxWXfCv/eY8vuuf2RQmr8jr8O9TO\nud/PXncKXYy1/EggD/zoTbJT40Z/nw0CLiuxLlDIBX7XY5TWBJCEYoS4BIPX1lTW\n99pus9xLcQKBgDbmtbkgr1bsgspSH6jLOEoRUS91zOFKvBeV/p0itk9W96bsju3I\nlDpiff23GNYX4d3ksIlzCiRXIHYsO9f0PHJ2i4Wt302mI3Yqa5lqlYa2NsPOdCww\nPBzNsZDQ/Rv4+Z0Kc4etb4Ix1Y7inaRlAnfAAK5IbJZcXmB6Z0FXkljhAoGBAK9j\nZzzPo+dN3BrQraJ/xlF4wnoIXMqVkqicoFDqeNLD4JKMR88KOX7Uo8rItuRb7MzJ\nzvIbFqGPgw4eFznpELylGAHM6dynwGDp7jTTnIWrYoRYfiLqP3nXhnmnCWI16Dgv\nPS0sdvn98b7VKHV0H5cJya8tPqmHsAVDpPYNSAnhAoGBALdA3hPVQwRu/AZ83/cv\nQgycmtLp+vaxxBqnNOIF2LFY3qcazo58w8AM22XIrU9HuEVoinSEAucbaE2lHYd2\nU6JQDRofi4S0ZOlPVPA3Jg8hHcTlW+6+YMz6O6oVyKzkjJkgSdkZLzKk8fc/qTco\nGc8dfk5oZjNP/bKSUEPEGcPR\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-ghfxk9nrre97cyc2a4g8wows00@sound-catalyst-337315.iam.gserviceaccount.com",
+  "client_id": "111461093529648422530",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-ghfxk9nrre97cyc2a4g8wows00%40sound-catalyst-337315.iam.gserviceaccount.com"
+}
